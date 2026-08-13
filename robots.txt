@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://news-agjx07.privatetalks.online/sitemap.xml
